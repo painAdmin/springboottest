@@ -8,6 +8,7 @@ public class SpringboottestApplication {
 
 	public static void main(String[] args) {
 		int c=123;
+		int a=123;
 		SpringApplication.run(SpringboottestApplication.class, args);
 	}
 }
