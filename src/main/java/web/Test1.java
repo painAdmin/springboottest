@@ -9,6 +9,7 @@ public class Test1 {
     }
     public  int getType(){
 
+    	int a=123;
         return 1;
     }
 }
