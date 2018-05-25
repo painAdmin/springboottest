@@ -8,7 +8,7 @@ public class Test1 {
         System.out.println("ceshi");
     }
     public  int getType(){
-
+       int d=123;
         return 1;
     }
 }
