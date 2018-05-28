@@ -13,4 +13,7 @@ public class SpringboottestApplication {
 
 		SpringApplication.run(SpringboottestApplication.class, args);
 	}
+	public static void test1(){
+
+	}
 }
