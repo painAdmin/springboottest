@@ -37,6 +37,7 @@ public class Student implements Teacher {
             Future<Object> res=AsyncTask.submit(this,method,param);
 //            Future<Object> res=()(taskExecutor.getAsyncExecutor()).
             String rr=res.get().toString();
+            System.out.println("adfs");
             return rr;
         } catch (NoSuchMethodException e) {
             e.printStackTrace();
